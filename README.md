@@ -6,4 +6,3 @@
 Kaggle is the online community of data scientist and Machine learners.
 The Dataset that is used for credit card fraud detection is derived from the Kaggle.
 The link for dataset is https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
-![image](https://github.com/AmandeepkaurCSE/CreditCard/assets/64351796/31476134-509c-43b8-8e7b-1fab72cad066)
