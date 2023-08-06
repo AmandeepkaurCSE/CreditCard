@@ -16,4 +16,7 @@ The main objective is to build a model that can accurately classify credit card 
 
 ### Convert Imbalanced Dataset to Balanced Dataset
 
-![Screenshot (62)](https://github.com/AmandeepkaurCSE/CreditCard/assets/64351796/29617f8d-5ab3-444e-80d3-845c6d23bd58)
+![Screenshot (145)](https://github.com/AmandeepkaurCSE/CreditCard/assets/64351796/4bba5576-79a2-4b83-8e4f-1366aba96d1a)
+
+
+![Screenshot (144)](https://github.com/AmandeepkaurCSE/CreditCard/assets/64351796/721a5cae-84f4-4c59-8028-1166c6bb6311)
