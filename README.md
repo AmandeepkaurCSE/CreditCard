@@ -14,3 +14,6 @@ The link for dataset is https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ### Objective
 The main objective is to build a model that can accurately classify credit card transactions as fraudulent or non-fraudulent.
 
+### Convert Imbalanced Dataset to Balanced Dataset
+
+![Screenshot (62)](https://github.com/AmandeepkaurCSE/CreditCard/assets/64351796/29617f8d-5ab3-444e-80d3-845c6d23bd58)
