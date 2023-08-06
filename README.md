@@ -15,8 +15,14 @@ The link for dataset is https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 The main objective is to build a model that can accurately classify credit card transactions as fraudulent or non-fraudulent.
 
 ### Convert Imbalanced Dataset to Balanced Dataset
+The resampling method is used to balanced the imbalanced data.
+
+The method that i used to perform the resampling is Oversampling using SMOTE
 
 ![Screenshot (145)](https://github.com/AmandeepkaurCSE/CreditCard/assets/64351796/4bba5576-79a2-4b83-8e4f-1366aba96d1a)
 
+![Screenshot (144)](https://github.com/AmandeepkaurCSE/CreditCard/assets/64351796/d5e04c70-7e36-4cc2-910a-2f6561e7c6f6)
 
-![Screenshot (144)](https://github.com/AmandeepkaurCSE/CreditCard/assets/64351796/721a5cae-84f4-4c59-8028-1166c6bb6311)
+### Algorithms Used
+Different algorithms such as Logistic Regression, k-Nearest Neighbors (KNN), Random Forest, and Decision Tree are being utilized in this project.
+![Screenshot (45)](https://github.com/AmandeepkaurCSE/CreditCard/assets/64351796/17b6db63-2d5f-415b-8306-6acc35bff27b)
