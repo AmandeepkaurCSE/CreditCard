@@ -26,3 +26,6 @@ The method that i used to perform the resampling is Oversampling using SMOTE
 ### Algorithms Used
 Different algorithms such as Logistic Regression, k-Nearest Neighbors (KNN), Random Forest, and Decision Tree are being utilized in this project.
 ![Screenshot (45)](https://github.com/AmandeepkaurCSE/CreditCard/assets/64351796/17b6db63-2d5f-415b-8306-6acc35bff27b)
+
+### Conclusion
+Finally, I designed a system that can detect fraud in credit card transaction. This system is capable to detect whether the credit card transaction is fraudulent or non fraudulent with 99.93% accuracy using K nearest neighbor.
